@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>TestProject</artifactId>
+    <artifactId>ROOT</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>TestProject</name>
     <packaging>war</packaging>
@@ -46,7 +46,12 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
                 <version>3.3.2</version>
+                <configuration>
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
+                    <warName>${artifactId}</warName>
+                </configuration>
             </plugin>
         </plugins>
+
     </build>
 </project>
