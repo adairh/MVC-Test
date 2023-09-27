@@ -10,7 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43a39fad-1513-47ea-8942-6aae153f35a3" name="Changes" comment="Very First MVC Java Web">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestProject-1.0-SNAPSHOT.war" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +200,7 @@
       <workItem from="1695724766526" duration="1378000" />
       <workItem from="1695744683004" duration="2186000" />
       <workItem from="1695754000677" duration="1035000" />
+      <workItem from="1695779998778" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="Very First MVC Java Web">
       <created>1695754101333</created>
